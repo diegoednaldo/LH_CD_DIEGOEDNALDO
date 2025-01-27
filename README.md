@@ -1,4 +1,4 @@
-# README - Projeto de Análise e Modelagem de Preços de Aluguéis Temporários em Nova York
+# Projeto de Análise e Modelagem de Preços de Aluguéis Temporários em Nova York
 
 Este projeto tem como objetivo realizar uma análise exploratória de dados e desenvolver um modelo preditivo para preços de aluguéis temporários na cidade de Nova York. O projeto foi desenvolvido utilizando o **Google Colab**, uma plataforma baseada em nuvem que permite a execução de código Python em notebooks interativos.
 
